@@ -1,0 +1,8 @@
+{
+  "name": "AISTUDIO",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6da37bbe"
+}

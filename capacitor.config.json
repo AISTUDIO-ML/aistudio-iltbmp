@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "AISTUDIO",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
